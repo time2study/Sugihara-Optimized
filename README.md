@@ -1,4 +1,4 @@
-Aims to study, optimize and implement algorithms of UAVs' path planning which could enable them to work together collecing all data from sensors(3D space) more efficiently.
+Aims to study, optimize and implement algorithms of UAVs' path planning which could enable them to work together collecing all data from sensors(3D space) more efficiently. It was written years ago, not in good coding style.
 
 **THIS IS** the major part which I worked on during our group project - dronekey
 
